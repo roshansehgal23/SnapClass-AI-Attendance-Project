@@ -1,0 +1,29 @@
+# Frontend
+streamlit
+
+# Data
+numpy
+pandas
+
+# ML
+scikit-learn
+
+# Face-recognition
+dlib-bin
+
+# Face-recognition
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+# Database
+supabase
+bcrypt
+
+# QR generation and image preprocessing
+segno
+pillow
+
+
+# voice recognition
+librosa
+resemblyzer
