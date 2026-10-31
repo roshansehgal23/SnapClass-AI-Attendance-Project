@@ -139,7 +139,7 @@ def teacher_tab_take_attendance():
                 enrolled_student = enrolled_res.data
 
                 if not enrolled_student:
-                    st.warning("No students are enrolled in this subject yet!")
+                    st.warning("No students are enrolled in this subject yet")
 
                 else:
                     results, attendance_to_log = [], []
